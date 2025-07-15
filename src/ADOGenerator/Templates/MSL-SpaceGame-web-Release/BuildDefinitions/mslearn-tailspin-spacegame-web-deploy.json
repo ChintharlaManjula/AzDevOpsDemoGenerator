@@ -20,7 +20,7 @@
   },
   "repository": {
     "properties": {
-      "cloneUrl": "https://$Organization$@dev.azure.com/$Organization$/$ProjectName$/_git/tailspin-spacegame-web-deploy",
+      "cloneUrl": "https://github.com/ChintharlaManjula/mslearn-tailspin-spacegame-web-deploy.git",
       "fullName": "tailspin-spacegame-web-deploy",
       "defaultBranch": "refs/heads/release",
       "isFork": "False",
@@ -31,7 +31,7 @@
     "id": "$tailspin-spacegame-web-deploy$",
     "type": "TfsGit",
     "name": "tailspin-spacegame-web-deploy",
-    "url": "https://$Organization$@dev.azure.com/$Organization$/$ProjectName$/_git/tailspin-spacegame-web-deploy",
+    "url": "https://github.com/ChintharlaManjula/mslearn-tailspin-spacegame-web-deploy.git",
     "defaultBranch": "refs/heads/release",
     "clean": null,
     "checkoutSubmodules": false
@@ -40,9 +40,9 @@
   "drafts": [],
   "queue": {
     "id": 8,
-    "name": "Hosted Ubuntu 1604",
+    "name": "Default",
     "pool": {
-      "name": "Hosted Ubuntu 1604",
+      "name": "Default",
       "isHosted": true
     }
   },
